@@ -1,4 +1,4 @@
-package shells;
+package com.johndev.sneakybutler.shells;
 
 public interface Shell {
 	

@@ -1,4 +1,4 @@
-package shells;
+package com.johndev.sneakybutler.shells;
 
 import java.io.BufferedReader;
 import java.io.IOException;

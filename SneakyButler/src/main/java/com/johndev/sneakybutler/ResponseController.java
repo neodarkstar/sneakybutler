@@ -8,7 +8,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-import shells.Shell;
+import com.johndev.sneakybutler.shells.Shell;
 
 @Controller
 public class ResponseController {
